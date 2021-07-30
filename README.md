@@ -1,2 +1,2 @@
-# Git-Exercise
-Git selfstudy
+# WENQIANG WANG
+Student Number :46087568
